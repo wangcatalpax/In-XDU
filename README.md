@@ -1,2 +1,2 @@
 # In-XDU
-When i was in XDU
+When I was in XDU
