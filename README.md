@@ -5,7 +5,7 @@
 
 -路径规划使用五次多项式拟合规划，消除了速度突变的情况，大大减轻了机械臂力学负担，利好实际应用  
 
--采用贪心算法（Greedy algorithm）优化路径，效果显著（由于RRT算法生成冗余点过多如果直接使用RRT算法生成的路径会使得机械臂运动不够流畅并且大大增加程序运算负担）  
++采用贪心算法（Greedy algorithm）优化路径，效果显著（由于RRT算法生成冗余点过多如果直接使用RRT算法生成的路径会使得机械臂运动不够流畅并且大大增加程序运算负担）  
 
--使用了B站用户Nino_FM（Uid：261126593）[GithubPages](https://github.com/Duan1030/Pick-and-place.git)的solidworks机械臂模型从而可以使用plot3d函数进行更为精致的建模与动画创建
+*使用了solidworks机械臂模型（由B站用户Nino_FM（Uid：261126593）[GithubPages](https://github.com/Duan1030/Pick-and-place.git)）创建，从而可以使用plot3d函数进行更为精致的建模与动画创建
 
